@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @ESSATA-EV
-- 👀 I’m interested in reading medicinal journals, hearing data science lectures...
-- 🌱 I’m currently learning DATA SCIENCE...
-- 📫 How to reach me *email = essakki.data@gmail.com
+- 👋 A warm greetings, everyone.
+- I'm ESSAKKI RAJA T, a junior year Data Science from Sathybama University, Chennai, India.
+- 👀 I love reading medicinal journals, reading books, watching podcasts and lectures and F.C. Barcelona and CSK.
+- I don't love to dive deep into code, just know the basics and finish the works with my storytelling prompts.
+- I mostly do managing and administravtive works. I love that a lot.
+- I'm currently serving as the Treasurer for two student chapters in my university : SIST-ACM and IE(I) - AI.
+- I served as the Head Coordinator for my university's Cultural fest and as the Core Unit Member of AIU - 39th Youth Festival' 2026.
+- I'm currently doing my internship as a Business Analyst Intern in ZUUCE Solutions Pvt. Ltd.
+- 🌱 I’m anticipating pursuing Masters in Business Analytics in the U.S.
+- 📫 reach me via : email = essakki.data@gmail.com   LinkedIN = https://www.linkedin.com/in/essakki-raja-t/
 
 <!---
 ESSATA-EV/ESSATA-EV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

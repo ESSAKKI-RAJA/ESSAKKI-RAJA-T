@@ -1,6 +1,6 @@
 - 👋 A warm greetings, everyone.
 - I'm ESSAKKI RAJA T, a final year Data Science undergrad from Sathybama University, Chennai, India.
-- 👀 I love reading medicinal journals, books, watching podcasts and lectures and F.C. Barcelona and CSK.
+- 👀 I love reading medicinal journals, books, watching podcasts and lectures and watch F.C. Barcelona and CSK.
 - I don't love to dive deep into code, I just know the basics and finish the works with my storytelling prompts.
 - I mostly do managing and administravtive works. I love that a lot.
 - I'm currently serving as the Treasurer for two student chapters in my university : SIST-ACM and IE(I) - AI.

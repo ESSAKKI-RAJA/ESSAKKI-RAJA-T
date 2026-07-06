@@ -7,6 +7,11 @@
 - I served as the Head Coordinator for my university's Cultural fest and as the Core Unit Member of AIU - 39th Youth Festival' 2026.
 - I worked as a Business Analyst Intern in ZUUCE Solutions Pvt. Ltd.
 - 🌱 I’m anticipating pursuing Masters in Business Analytics in the U.S.
+  
+- DREAM -OBSESSION -PERSISTENCE 
+- Still the Game is ON! 
+ _ ESSAKKI RAJA T
+
 - 📫 reach me via : email = essakki.data@gmail.com   LinkedIN = https://www.linkedin.com/in/essakki-raja-t/
 
 <!---

@@ -12,7 +12,9 @@
 - Still the Game is ON! 
  _ ESSAKKI RAJA T
 
-- 📫 reach me via : email = essakki.data@gmail.com   LinkedIN = https://www.linkedin.com/in/essakki-raja-t/
+- 📫 reach me via:
+email = essakki.data@gmail.com   
+LinkedIN = https://www.linkedin.com/in/essakki-raja-t/
 
 <!---
 ESSATA-EV/ESSATA-EV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

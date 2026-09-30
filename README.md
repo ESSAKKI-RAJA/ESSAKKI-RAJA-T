@@ -12,11 +12,9 @@
 - Still the Game is ON! 
  _ ESSAKKI RAJA T
 
+- Have look at my portfolio - https://essakki-portfolio-thevaness.vercel.app/
+
 - 📫 reach me via:
 email = essakki.data@gmail.com   
 LinkedIN = https://www.linkedin.com/in/essakki-raja-t/
 
-<!---
-ESSATA-EV/ESSATA-EV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
